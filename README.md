@@ -55,3 +55,8 @@ closed.
 • Handle cases where no seat is selected for cancellation.
 • Ensure saving to both the database and CSV is handled correctly, even with multiple
 bookings.
+
+
+![](Movie_seat_booking.jpeg)
+![](Confirmation_seat_booking.jpeg)
+
